@@ -1,11 +1,17 @@
+
 import "./App.css";
+// import ContactList from "./components/ContactList";
+// import RandomClicked from "./components/RandomClicked";
+import RandomClicked from "./components/random-clicked";
 
 function App() {
+
   return (
-    <div className="App">
-      <h1>LAB | React IronContacts</h1>
-    </div>
-  );
+    <>
+      {/* <RandomClicked /> */}
+      <RandomClicked />
+    </>
+  )
 }
 
 export default App;
