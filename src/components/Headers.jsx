@@ -8,6 +8,7 @@ function Headers() {
                 <th>Popularity</th>
                 <th>Won Oscar</th>
                 <th>Won Emmy</th>
+                <th>Actions</th>
             </tr>
         </thead>
     )
